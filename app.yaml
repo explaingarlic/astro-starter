@@ -1,0 +1,6 @@
+domains:
+- astro-starter-explaingarlic.wasmer.dev
+kind: wasmer.io/App.v0
+name: explaingarlic-astro-starter
+owner: explaingarlic
+package: .
